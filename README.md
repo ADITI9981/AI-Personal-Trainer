@@ -1,11 +1,10 @@
 # 🏋️‍♂️ AI Personal Trainer 🤖  
 
 <p align="center">
-[![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)  
-[![OpenCV](https://img.shields.io/badge/OpenCV-Computer_Vision-green.svg)](https://opencv.org/)  
-[![Mediapipe](https://img.shields.io/badge/Mediapipe-Pose_Estimation-orange.svg)](https://mediapipe.dev/)  
-[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)  
-[![Stars](https://img.shields.io/github/stars/ADITI9981/AI-Personal-Trainer?style=social)](https://github.com/ADITI9981/AI-Personal-Trainer/stargazers)  
+<img src="https://img.shields.io/badge/Python-3.10-blue?style=for-the-badge&logo=python" />
+<img src="https://img.shields.io/badge/OpenCV-4.x-green?style=for-the-badge&logo=opencv" />
+<img src="https://img.shields.io/badge/MediaPipe-Computer%20Vision-orange?style=for-the-badge&logo=mediapipe" />
+<img src="https://img.shields.io/badge/DeepLearning-TensorFlow%20/PyTorch-red?style=for-the-badge&logo=tensorflow" /> 
 </p>
 
 ## Overview
