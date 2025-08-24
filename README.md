@@ -24,8 +24,8 @@ Your **AI-powered fitness companion** that tracks your **workout form, reps, and
 ## 📸 Screenshots  
 <p align="center">
   <img src="https://github.com/user-attachments/assets/8f7a1eaf-b9bd-419e-a9a3-5c550b24a6a6" width="70%" />
-  <img src ="https://github.com/user-attachments/assets/36725458-43fd-4948-8831-af97ba51a4e9" width="30%" />
-  <img src="https://github.com/user-attachments/assets/d79d15f1-1c26-4b8c-9b5a-7e9cb113af94" width="30%" />
+  <img src ="https://github.com/user-attachments/assets/36725458-43fd-4948-8831-af97ba51a4e9" width="45%" />
+  <img src="https://github.com/user-attachments/assets/d79d15f1-1c26-4b8c-9b5a-7e9cb113af94" width="45%" />
   <img src="https://github.com/user-attachments/assets/37361b2c-b233-4fe2-be84-e240bae6a3ec" width="70%" />
 </p>  
 
